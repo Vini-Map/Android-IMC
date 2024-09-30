@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CalcImc</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro"><u>Crie uma Conta</u></string>
 </resources>
